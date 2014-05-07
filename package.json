@@ -2,7 +2,7 @@
   "name": "avengers-syntax",
   "theme": "syntax",
   "version": "0.2.0",
-  "description": "A short description of your syntax theme",
+  "description": "A theme based off of the comic book Avengers random line-up.",
   "repository": "https://github.com/solomonsscott/avengers-syntax",
   "license": "MIT",
   "engines": {
